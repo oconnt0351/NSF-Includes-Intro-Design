@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Two input switches can be flipped to change which LED is active.
 
 ## How to test
 
-Explain how to use your project
+When both are off, the red LED is on. When either one is on and the other is off, the yellow LED is on. When both are on, the green LED is on.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+2 switches, 3 LEDs.
